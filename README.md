@@ -1,1 +1,1 @@
-https://dry-woodland-49327.herokuapp.com/api/persons/
+https://dry-woodland-49327.herokuapp.com/
